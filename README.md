@@ -47,7 +47,7 @@ This is the backend for the personal blog platform, built with Node.js and Expre
 2. **Install dependencies**:
    ```bash
    npm install
-   Environment Variables:
+   
 
 3 **Backend: Create a .env file in the backend folder with the following variables**:
 env
